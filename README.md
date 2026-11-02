@@ -20,6 +20,14 @@ Developers often struggle with coming up with ideas for a project as well as pur
  - Version Control: GitHub
  - Development Environment: Visual Studio Code
 
+## Future Plans:
+ - Migrating to Spring Boot, Firebase, and/or React.
+ - Adding Accounts and login
+ - Editing ideas
+ - Filtering by tags
+ - Deploying the app Online
+ - In-progress status bar for an idea/project
+
 ## Project Roadmap:
 - Setting up the repo, virtual environment, and README
 -  Making sure the Flask route works by creating a homepage that returns "Hello World" in the browser
